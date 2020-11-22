@@ -1,4 +1,4 @@
-# Baby Lizards Problem Genetic Algorithm
+# Baby Lizards Problem Genetic Algorithm (WIP)
 
 A Genetic Algorithm to solve the Baby Lizards Problem, which is a twist on the classic N-Queens problem.
 
